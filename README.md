@@ -4,6 +4,6 @@ Repostorio de test para IS
 - texto 1
 - texto 2 
 
-Linea añadida en local 
+Linea añadid a en local 
 otra linea
 
